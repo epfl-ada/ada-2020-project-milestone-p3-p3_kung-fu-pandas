@@ -10,7 +10,7 @@ Do they tweet less or more? Do they get more retweets?
 Does the style change (e.g. more hashtags, URLs, mentions…)?
 
 ## Proposed datasets
-EgoTimelines and EgoAlterProfiles from the paper: these provide a random sample of users together with their networks and tweets. If necessary, the Twitter API can be queried to extract further information on the users.
+`EgoTimelines` and `EgoAlterProfiles` from the paper: these provide a random sample of users together with their networks and tweets. If necessary, the Twitter API can be queried to extract further information on the users.
 
 ## Methods
 - Data preparation: Since the data are already available from the paper, we will mainly focus on the preparation and selection of the features for clustering. This may require further preprocessing needed (e.g. missing values handling) and the formulation of additional features that can be useful for the similarity computation – these might include average number of hashtags/URLs/mentions per user, fraction of retweets/replies etc.
