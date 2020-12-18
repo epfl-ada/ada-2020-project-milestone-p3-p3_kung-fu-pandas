@@ -39,6 +39,9 @@ Michael will focus on formatting the blog post and including all visualisations
 Polina will work on editing the short video
 
 ## Contributions
+Marie: Feature Engineering, data visualization (interactive plots), and data story writing
+Michael: Feature Engineering, clustering, data visualization (K-means and feature distributions etc...)
+Polina: Data Normalization, clustering, data visualization (DBSCAN and relevant feature extraction etc...)
 
 
 ## Questions for TAs
